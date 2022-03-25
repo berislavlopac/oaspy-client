@@ -1,0 +1,9 @@
+site_name: OASpy Client Documentation
+site_url: https://oaspy-client.readthedocs.io
+repo_url: https://github.com/berislavlopac/oaspy-client
+site_description: HTTP API client for consuming APIs based on OpenAPI specification.
+site_author: Berislav Lopac <berislav@lopac.net>
+theme:
+  name: readthedocs
+nav:
+  - index.md
